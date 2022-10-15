@@ -29,7 +29,7 @@ public class Calculation {
 		int sum12 = obj.sum(diff1, 2);
 		int multi1 = obj.multi(sum12, 2);
 		int div1 = obj.div(multi1, 2);
-		System.out.println("This is Assignment 1 : " + div1);
+		System.out.println("This is Selenium Automation Practice Assignment 1 : " + div1);
 		// ((((10*2)-2)+2)-2)/2)
 		int multi2 = obj.multi(10, 2);
 		int diff21 = obj.diff(multi2, 2);
